@@ -1,8 +1,8 @@
 package de.acksmi.firmapp.firmpassbackend.registration;
 
-import de.acksmi.firmapp.firmpassbackend.AppUser.AppUser;
-import de.acksmi.firmapp.firmpassbackend.AppUser.AppUserRole;
-import de.acksmi.firmapp.firmpassbackend.AppUser.AppUserService;
+import de.acksmi.firmapp.firmpassbackend.appuser.AppUser;
+import de.acksmi.firmapp.firmpassbackend.appuser.AppUserRole;
+import de.acksmi.firmapp.firmpassbackend.appuser.AppUserService;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 

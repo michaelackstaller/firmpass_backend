@@ -1,9 +1,7 @@
 package de.acksmi.firmapp.firmpassbackend.data;
 
-import de.acksmi.firmapp.firmpassbackend.AppUser.AppUser;
+import de.acksmi.firmapp.firmpassbackend.appuser.AppUser;
 import org.springframework.data.jpa.repository.JpaRepository;
-import org.springframework.data.jpa.repository.Modifying;
-import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;
 import org.springframework.transaction.annotation.Transactional;
 

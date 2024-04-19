@@ -1,4 +1,4 @@
-package de.acksmi.firmapp.firmpassbackend.AppUser;
+package de.acksmi.firmapp.firmpassbackend.appuser;
 
 public enum AppUserRole {
     USER,

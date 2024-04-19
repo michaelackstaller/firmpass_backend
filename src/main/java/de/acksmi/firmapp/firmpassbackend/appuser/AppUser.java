@@ -1,4 +1,4 @@
-package de.acksmi.firmapp.firmpassbackend.AppUser;
+package de.acksmi.firmapp.firmpassbackend.appuser;
 
 import jakarta.persistence.*;
 import lombok.EqualsAndHashCode;

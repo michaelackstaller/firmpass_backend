@@ -1,4 +1,4 @@
-package de.acksmi.firmapp.firmpassbackend.AppUser;
+package de.acksmi.firmapp.firmpassbackend.appuser;
 
 import de.acksmi.firmapp.firmpassbackend.data.AppUserRepository;
 import lombok.AllArgsConstructor;
